@@ -1,0 +1,5 @@
+/env
+*.sqlite3
+task/__pycache__/
+task/migrations/
+task_management_system/__pycache__/
